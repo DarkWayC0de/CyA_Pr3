@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/darkwaycode/Escritorio/Cya/Pr3/sorted_vector_t.cpp
+sorted_vector_t.hpp
+/home/darkwaycode/Escritorio/Cya/Pr3/sorted_vector_t.hpp
+climits
+-
+iomanip
+-
+
+/home/darkwaycode/Escritorio/Cya/Pr3/sorted_vector_t.hpp
+vector
+-
+iostream
+-
+
